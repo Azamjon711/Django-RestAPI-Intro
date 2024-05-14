@@ -33,6 +33,7 @@ INSTALLED_APPS = [
     'music',
     # framework
     'rest_framework',
+    'drf_yasg',
 ]
 
 MIDDLEWARE = [
